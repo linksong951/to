@@ -12,7 +12,7 @@ set targetDir=D:\Code\MyOpenSource\20240719-planning-plan\log
 if exist "%targetDir%\%current_date%.md" (
     echo "1"
     cmd /c "cd /d D:\Code\MyOpenSource\20240719-planning-plan&&code ./"
-) else (
+) else ( 
     @REM 创建log.md 文件 从模版中复制过来改名
     echo "2"
     copy /Y "%targetDir%\log.md" "%targetDir%\%current_date%.md"
