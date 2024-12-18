@@ -1,0 +1,18 @@
+bat脚本
+ 
+2 学习脚本
+
+打开浏览器   四大件打开   学习日志打开
+
+3 java
+
+idea打开  浏览器打开    打开计划日志  打开tolist
+
+4 net
+vs打开   浏览器 微软文档   vscode 打开 计划日志 打开tolist
+
+
+前端 混合
+vs打开  code目录   打开tolist
+
+
