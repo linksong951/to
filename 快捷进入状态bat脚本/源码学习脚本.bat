@@ -31,5 +31,6 @@ start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https:
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://kimi.moonshot.cn/chat/cthbun5o082k43r0voj0"
 start  "" "D:\Code\MyOpenSource" 
 start  "" "D:\Code\OpenSource" 
+cmd /c "code"
 
-exit
+pause

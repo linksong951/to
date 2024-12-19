@@ -32,4 +32,4 @@ start  "" "D:\IDE\JetBrains\IntelliJ IDEA 2024.3.1\bin\idea64.exe"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" 
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://tongyi.aliyun.com/qianwen/"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://kimi.moonshot.cn/chat/cthbun5o082k43r0voj0"
-exit
+pause

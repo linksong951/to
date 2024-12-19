@@ -18,6 +18,9 @@ if exist "%targetDir%\%current_date%.md" (
     copy /Y "%targetDir%\log.md" "%targetDir%\%current_date%.md"
     @REM vscode开启这个文件夹
     cmd /c "cd /d D:\Code\MyOpenSource\20240719-planning-plan&&code ./"
+    @REM 打开Microsoft To Do
+    @REM cmd /c "start C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft To Do.lnk"
+    @REM start shell:AppsFolder\Microsoft.Todo_8wekyb3d8bbwe!App
 )
 @REM ------------------
 @REM 已经结束了日常日志生成

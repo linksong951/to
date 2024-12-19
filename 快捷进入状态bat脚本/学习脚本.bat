@@ -38,4 +38,4 @@ start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https:
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://www.bilibili.com/video/BV1b7411N798/?spm_id_from=333.999.0.0&vd_source=19691fef5a101eb7414a8cad489bd045"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://tongyi.aliyun.com/qianwen/"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://kimi.moonshot.cn/chat/cthbun5o082k43r0voj0"
-exit
+pause

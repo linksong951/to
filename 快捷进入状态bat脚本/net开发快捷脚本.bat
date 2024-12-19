@@ -33,4 +33,4 @@ start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://learn.microsoft.com/zh-cn/dotnet/"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://tongyi.aliyun.com/qianwen/"
 start  "" "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" "https://kimi.moonshot.cn/chat/cthbun5o082k43r0voj0"
-exit
+pause
