@@ -26,5 +26,7 @@ if exist "%targetDir%\%current_date%.md" (
 @REM 已经结束了日常日志生成
 @REM 下面进行需要的操作
 
+start "" "C:\Users\27604\AppData\Local\Programs\Xmind\Xmind.exe" 
+
 exit
 
