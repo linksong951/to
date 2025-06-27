@@ -7,14 +7,14 @@ import os
 class BehaviorTrackerApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("行为时间记录器")
-        self.root.geometry("300x200+100+100")
+        self.root.title("行为手动记录器")
+        self.root.geometry("250x200+100+100")
         self.root.attributes('-topmost', True)  # 窗口置顶
         self.root.overrideredirect(True)  # 无边框窗口
         self.root.config(bg="#2c3e50")
         
         # 设置窗口透明度
-        self.root.attributes("-alpha", 0.95)
+        self.root.attributes("-alpha", 0.65)
         
         # 记录拖动初始位置
         self.x = 0
